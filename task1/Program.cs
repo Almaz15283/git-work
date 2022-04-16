@@ -14,3 +14,16 @@ int b =7;
             }
             
 
+int c = 2;
+int d = 10;
+    if (c > d)
+            {
+            Console.Write("max number = ");
+            Console.Write(c);
+            }
+    else 
+            {
+            Console.Write("max number = ");
+            Console.Write(d);
+            }
+            
